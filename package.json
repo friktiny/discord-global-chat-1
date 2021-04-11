@@ -1,0 +1,25 @@
+{
+  "name": "some-npm-package-but-change-name-later",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuggies-bot/some-npm-package-but-change-name-later.git"
+  },
+  "author": "Assassin-1234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuggies-bot/some-npm-package-but-change-name-later/issues"
+  },
+  "homepage": "https://github.com/Nuggies-bot/some-npm-package-but-change-name-later#readme",
+  "dependencies": {
+    "mongoose": "^5.12.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
